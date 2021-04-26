@@ -45,6 +45,7 @@ After clicking the artwork for a song, you will be given the below screen with t
 
 - [Bulma](https://bulma.io/)
 - [jQuery](https://jquery.com/)
+- [SwiperJS](https://swiperjs.com/swiper-api)
 
 ## Features
 
